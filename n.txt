@@ -1,3 +1,4 @@
 123456 from origin
+add seconde line master
 
 new line recursive merge
